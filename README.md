@@ -22,6 +22,6 @@ codigo = imagen[413:461, 421:583]
 ![image text](https://github.com/Javier-I-Morales/Lector-de-Codigo-de-Barras/blob/main/Lector_de_codigos/Imagenes/Interfaz%20antes%20del%20proceso.png)
 
 
-![Image text]()
+![Image text](https://github.com/Javier-I-Morales/Lector-de-Codigo-de-Barras/blob/main/Lector_de_codigos/Imagenes/Interfaz%20procesando.png)
 ![Image text]()
 ![Image text]()
