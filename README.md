@@ -13,7 +13,7 @@ La ubicación del codigo de barras esta seteado en el mismo dependiendo de la ne
 codigo = imagen[413:461, 421:583]
 ```
 
-![image text]()
+![image text](https://github.com/Javier-I-Morales/Lector-de-Codigo-de-Barras/blob/main/Lector_de_codigos/Imagenes/Interfaz%20antes%20del%20proceso.png)
 
 ![Image text]()
 
