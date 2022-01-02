@@ -4,7 +4,7 @@
 
 _Ya que los pdf son nombrados por un scanner que los crea al digitalizarlos y le pone como nombre la fecha y un numero consecutivo..._
 
-![Image text](https://github.com/Javier-I-Morales/Lector-de-Codigo-de-Barras/blob/main/Lector_de_codigos/Imagenes/uno.png) ![Image text]()
+![Image text](https://github.com/Javier-I-Morales/Lector-de-Codigo-de-Barras/blob/main/Lector_de_codigos/Imagenes/uno.png) ![Image text](https://github.com/Javier-I-Morales/Lector-de-Codigo-de-Barras/blob/main/Lector_de_codigos/Imagenes/dos.png)
 
 ![Image text](https://github.com/Javier-I-Morales/Lector-de-Codigo-de-Barras/blob/main/Lector_de_codigos/Imagenes/Interfaz.png)
 
