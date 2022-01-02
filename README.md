@@ -12,11 +12,13 @@ La ubicación del codigo de barras esta seteado en el mismo dependiendo de la ne
 ```
 codigo = imagen[413:461, 421:583]
 ```
+_Más o menos seria algo así: _
 
+![image text](https://github.com/Javier-I-Morales/Lector-de-Codigo-de-Barras/blob/main/Lector_de_codigos/Imagenes/Interfaz%20antes%20del%20proceso.png)
 
 ### Elegimos las carpetas donde estan los pdf y donde se depositaran los resultados
 
-![Image text](https://github.com/Javier-I-Morales/Lector-de-Codigo-de-Barras/blob/main/Lector_de_codigos/Imagenes/menu.png)
+![Image text](https://github.com/Javier-I-Morales/Lector-de-Codigo-de-Barras/blob/main/Lector_de_codigos/Imagenes/menu_carpetas.png)
 
 ### Una vez elegida la carpeta con los doc el boton se puede accionar para empezar el proceso
 
