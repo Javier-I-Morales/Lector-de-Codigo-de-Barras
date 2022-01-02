@@ -24,7 +24,11 @@ _Más o menos seria algo así: _
 
 ![image text](https://github.com/Javier-I-Morales/Lector-de-Codigo-de-Barras/blob/main/Lector_de_codigos/Imagenes/Interfaz%20antes%20del%20proceso.png)
 
+### Mientras va renombrando nos va mostrando la cantidad de archivos renombrados y los que faltan renombrar
 
 ![Image text](https://github.com/Javier-I-Morales/Lector-de-Codigo-de-Barras/blob/main/Lector_de_codigos/Imagenes/Interfaz%20procesando.png)
+
+### Terminado el proceso nos muestra los resultados
+
 ![Image text](https://github.com/Javier-I-Morales/Lector-de-Codigo-de-Barras/blob/main/Lector_de_codigos/Imagenes/Interfaz%20proceso%20terminado.png)
-![Image text]()
+
