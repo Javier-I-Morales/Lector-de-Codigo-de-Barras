@@ -2,9 +2,11 @@
 
 ### Es un pequeño script para leer el codigo de barras de un pdf y que lo renombre al pdf con su numero extraido del codigo de barras.
 
-_Ya que los pdf son nombrados por un scanner que los crea al digitalizarlos y le pone como nombre la fecha y un numero consecutivo..._
+_(Ya que los pdf son nombrados por un scanner que los crea al digitalizarlos y le pone como nombre la fecha y un numero consecutivo...)_
 
-![Image text](https://github.com/Javier-I-Morales/Lector-de-Codigo-de-Barras/blob/main/Lector_de_codigos/Imagenes/uno.png) ![Image text](https://github.com/Javier-I-Morales/Lector-de-Codigo-de-Barras/blob/main/Lector_de_codigos/Imagenes/dos.png)
+## El principio y el final del proceso seria lo siguiente:
+
+![Image text](https://github.com/Javier-I-Morales/Lector-de-Codigo-de-Barras/blob/main/Lector_de_codigos/Imagenes/uno.png)         ![Image text](https://github.com/Javier-I-Morales/Lector-de-Codigo-de-Barras/blob/main/Lector_de_codigos/Imagenes/dos.png)
 
 ![Image text](https://github.com/Javier-I-Morales/Lector-de-Codigo-de-Barras/blob/main/Lector_de_codigos/Imagenes/Interfaz.png)
 
