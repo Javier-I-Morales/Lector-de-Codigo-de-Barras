@@ -14,7 +14,7 @@ codigo = imagen[413:461, 421:583]
 ```
 _Más o menos seria algo así: _
 
-![image text](https://github.com/Javier-I-Morales/Lector-de-Codigo-de-Barras/blob/main/Lector_de_codigos/Imagenes/Interfaz%20antes%20del%20proceso.png)
+![image text](https://github.com/Javier-I-Morales/Lector-de-Codigo-de-Barras/blob/main/Lector_de_codigos/Imagenes/imagen%20codigo.png)
 
 ### Elegimos las carpetas donde estan los pdf y donde se depositaran los resultados
 
