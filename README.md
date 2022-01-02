@@ -1,5 +1,5 @@
 # Lector-de-Codigo-de-Barras
-
+- - -
 ### Es un pequeño script para leer el codigo de barras de un pdf y que lo renombre al pdf con su numero extraido del codigo de barras.
 
 _(Ya que los pdf son nombrados por un scanner que los crea al digitalizarlos y le pone como nombre la fecha y un numero consecutivo...)_
